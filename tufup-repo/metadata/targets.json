@@ -1,0 +1,28 @@
+{
+ "signatures": [
+  {
+   "keyid": "593da8f8d920dfb47d5a6a641d1efcfeaf1af057e0760d01c8dfc30c3d236e40",
+   "sig": "ae8da8b67808261308d5328aad1564d053fc37e8416e42417ad95f41d91130e8b397b66684269510747131ac702690f61e34c9e8c06244d04d26dd7c96c8e201"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2027-01-22T14:22:09Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "test-1.0.0.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "c87d4e9a731689932992e16de94c4674bf1b66f1bb4347ea3d191a91d9bf1f29"
+    },
+    "length": 16244732
+   }
+  },
+  "version": 2
+ }
+}

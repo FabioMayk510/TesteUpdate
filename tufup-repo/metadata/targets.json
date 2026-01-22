@@ -2,12 +2,12 @@
  "signatures": [
   {
    "keyid": "593da8f8d920dfb47d5a6a641d1efcfeaf1af057e0760d01c8dfc30c3d236e40",
-   "sig": "c78e01efa79d83e13fa965fec2b2d5661e5d60a027b5fcc9a3241c6b01017a4e5c121b3e350937be3444722ce54f0c847a2e448f0da601761d89915fcab3920b"
+   "sig": "0ba961647ee51b4b531a98e2f2076c04156a3784f15e3e3eaf3c7c95ef9de1584ff92db24a2466c8f408a1ddf2c8e7eb5f6b8a3eaf23b0f4b125004edea8860a"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2027-01-22T15:36:13Z",
+  "expires": "2027-01-22T15:42:05Z",
   "spec_version": "1.0.31",
   "targets": {
    "test-1.0.0.tar.gz": {
@@ -69,8 +69,20 @@
      "sha256": "0984dc6f05954b26914d4002ac11a97cd46b4053c91f2fa645d2cc168e0cf1f6"
     },
     "length": 16246319
+   },
+   "test-2.0.3.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "e2d82c43468d28bb0a5f648e9ad90d4e4e6a7139be55c42086fe7d5d234c20e6"
+    },
+    "length": 16246762
    }
   },
-  "version": 6
+  "version": 7
  }
 }

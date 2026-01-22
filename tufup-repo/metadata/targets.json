@@ -2,74 +2,14 @@
  "signatures": [
   {
    "keyid": "593da8f8d920dfb47d5a6a641d1efcfeaf1af057e0760d01c8dfc30c3d236e40",
-   "sig": "0ba961647ee51b4b531a98e2f2076c04156a3784f15e3e3eaf3c7c95ef9de1584ff92db24a2466c8f408a1ddf2c8e7eb5f6b8a3eaf23b0f4b125004edea8860a"
+   "sig": "70c0fe04367016587e1dc68afd72b4e404b63eb8a36e8414e814d72494859e2837af602ebea78bf7476a39ba728ccb44fce43893a9097dcf6263d0a780d24e0f"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2027-01-22T15:42:05Z",
+  "expires": "2027-01-22T15:46:12Z",
   "spec_version": "1.0.31",
   "targets": {
-   "test-1.0.0.tar.gz": {
-    "custom": {
-     "tufup": {
-      "required": false
-     },
-     "user": null
-    },
-    "hashes": {
-     "sha256": "c87d4e9a731689932992e16de94c4674bf1b66f1bb4347ea3d191a91d9bf1f29"
-    },
-    "length": 16244732
-   },
-   "test-1.0.1.tar.gz": {
-    "custom": {
-     "tufup": {
-      "required": false
-     },
-     "user": null
-    },
-    "hashes": {
-     "sha256": "cd2355b6dac8836f1cd910fc0539135246977fc3e27007fc9c09fbed1846a450"
-    },
-    "length": 16245769
-   },
-   "test-2.0.0.tar.gz": {
-    "custom": {
-     "tufup": {
-      "required": false
-     },
-     "user": null
-    },
-    "hashes": {
-     "sha256": "fd43704b2fbf8c6316d254fc878528061ef36f53aafa43a2268e978fe946a037"
-    },
-    "length": 16246523
-   },
-   "test-2.0.1.tar.gz": {
-    "custom": {
-     "tufup": {
-      "required": false
-     },
-     "user": null
-    },
-    "hashes": {
-     "sha256": "48d65388c30dc814df79fc545deeece2c12332b7fa74b8d699bbecd0adfc1a7d"
-    },
-    "length": 16245520
-   },
-   "test-2.0.2.tar.gz": {
-    "custom": {
-     "tufup": {
-      "required": false
-     },
-     "user": null
-    },
-    "hashes": {
-     "sha256": "0984dc6f05954b26914d4002ac11a97cd46b4053c91f2fa645d2cc168e0cf1f6"
-    },
-    "length": 16246319
-   },
    "test-2.0.3.tar.gz": {
     "custom": {
      "tufup": {
@@ -78,11 +18,11 @@
      "user": null
     },
     "hashes": {
-     "sha256": "e2d82c43468d28bb0a5f648e9ad90d4e4e6a7139be55c42086fe7d5d234c20e6"
+     "sha256": "c8190af3cff58ff829beb5b9049b6cfd509ebd1647a02b09d7141abed9cf1c8c"
     },
-    "length": 16246762
+    "length": 16245377
    }
   },
-  "version": 7
+  "version": 1
  }
 }
